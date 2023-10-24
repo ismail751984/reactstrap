@@ -1,6 +1,4 @@
 import '../App.css'
-import Celebrity from './Celebrity';
-
 export default function ReactNavbar() {
 
   return (
